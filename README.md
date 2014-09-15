@@ -23,6 +23,8 @@ var incrnum = ((typeof module === 'object') ? module : {}).exports = (function (
 }(0));
 ```
 
+[0]: http://www.bumblehead.com                            "bumblehead"
+
 ---------------------------------------------------------
 #### <a id="install"></a>Install:
 
